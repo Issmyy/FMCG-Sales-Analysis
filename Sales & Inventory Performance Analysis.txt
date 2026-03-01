@@ -1,0 +1,50 @@
+Sales & Inventory Performance Analysis
+
+1. Weekly Sales Trend per Brand
+
+Based on the Weekly Sales Trend per Brand, SnBrand2 recorded the highest number of units sold. This indicates that SnBrand2 is currently the top-performing brand and a key revenue driver.
+
+2. Stockout Risk Analysis
+
+Referring to the Stockout Days by Brand table, SnBrand2 shows a high number of stockout days (more than 100 days), particularly in the E-commerce channel.
+This suggests a significant supply risk despite strong demand.
+
+Implication:
+We must prioritize maintaining sufficient stock levels for SnBrand2 to prevent lost sales and revenue leakage.
+
+3. Promotion Uplift Analysis
+
+From the Promotion Uplift Analysis, SnBrand2 generated the highest promotional uplift, approximately 48K units.
+
+This indicates:
+
+The brand responds very well to promotions.
+
+Promotional activities significantly boost demand.
+
+Implication:
+Promotions are effective for SnBrand2 and can be leveraged strategically — but stock availability must be secured beforehand to avoid missed opportunities.
+
+4. Price Elasticity Consideration
+
+According to the Elasticity by Brand table, SnBrand2 has demand elasticity greater than 1 (elastic demand).
+
+This means:
+
+Consumers are sensitive to price changes.
+
+Implication:
+Price adjustments must be handled carefully. Increasing the price could negatively impact sales volume due to high elasticity.
+
+
+Strategic Recommendations:
+1. Improve Supply Planning
+2. Increase production planning for SnBrand2.
+3. Reduce stockout days (currently >100 days).
+4. Align Promotion with Inventory
+
+
+Conclusion
+
+SnBrand2 is the strongest-performing brand in terms of sales and promotional responsiveness. However, it faces a high stockout risk, especially in the E-commerce channel.
+
